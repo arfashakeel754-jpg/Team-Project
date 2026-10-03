@@ -1,0 +1,13 @@
+# Coding Standards
+Following standards are followed:
+
+1. Use meaningful variable and function names.
+2. Use consistent indentation and formatting.
+3. Keep the code simple and readable.
+4. Avoid unnecessary duplication in code.
+5. Add comments where clarification is needed.
+6. Test the code.
+7. Use clear commit messages.
+8. Do not directly modify the main branch.
+9. Use feature branches for new features.
+10. All code must be reviewed before merging.

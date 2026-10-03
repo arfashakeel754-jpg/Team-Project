@@ -62,15 +62,18 @@ The workflow is as follows:
 1. M1 creates the repository and develop branch.
 2. M2 creates a feature branch from develop.
 3. M2 implements the assigned feature and commits the changes.
-4. M2 creates a Pull Request to develop.
-5. M4 reviews the code and checks the project requirements.
-6. M4 requests changes if needed.
-7. M2 fixes the review comments.
-8. M4 reviews and approves the Pull Request.
-9. M1 merges the approved Pull Request into develop.
-10. M3 tests the integrated feature and reports any bugs.
-11. If a bug is found, a bugfix branch is created and the bug is fixed.
-12. After the project is complete and approved, M1 merges the final version into main.
+4. M3 tests the feature and reports any bugs.
+5. M2 fixes any bugs found by M3.
+6. M3 tests the updated feature again.
+7. M2 creates a Pull Request to develop.
+8. M4 reviews the code and checks the project requirements.
+9. M4 requests changes if needed.
+10. M2 fixes the review comments.
+11. M3 tests the updated code again if the changes affect functionality.
+12. M4 reviews and approves the Pull Request.
+13. M1 merges the approved Pull Request into develop.
+14. If a bug is found, a bugfix branch is created and the bug is fixed.
+15. After the project is complete and approved, M1 merges the final version into main.
 
 ## Definition of Done
 A task in project is considered complete when:

@@ -71,3 +71,17 @@ The workflow is as follows:
 10. M3 tests the integrated feature and reports any bugs.
 11. If a bug is found, a bugfix branch is created and the bug is fixed.
 12. After the project is complete and approved, M1 merges the final version into main.
+
+## Definition of Done
+A task in project is considered complete when:
+
+- The assigned feature is implemented.
+- The code follows the coding standards.
+- The feature has been tested by M3.
+- Major bugs are fixed.
+- A Pull Request is created.
+- M4 has reviewed the changes.
+- All review comments have been resolved.
+- The Pull Request is approved.
+- The approved changes are merged into the develop branch.
+- Required documentation is updated.

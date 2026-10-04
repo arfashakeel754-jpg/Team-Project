@@ -6,7 +6,7 @@ MindMate is a simple and friendly mental health chatbot. MindMate is designed to
 ## Team Members
 - M1 Project Leader:             Arfa Shakeel
 - M2 Developer:                  Mahnoor Majid
-- M3 Tester:                     Javeria Shakeel
+- M3 Tester:                     Javeria Zafar
 - M4 Documentation and Reviewer: Maarij Zeeshan
 
 ## Features
